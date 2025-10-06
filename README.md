@@ -5,7 +5,7 @@ A simple and modern web tool that evaluates the strength of your password in rea
 It provides instant feedback and a colorful visual meter indicating how secure your password is.
 
 ## 🚀 Features
-- Real-time password strength analysis
+- Real-time password strength analysis and generation
 - Color-coded visual meter
 - Minimal and modern UI design
 - Fully responsive layout
@@ -16,7 +16,7 @@ It provides instant feedback and a colorful visual meter indicating how secure y
 - **JavaScript (Vanilla)**
 
 ## 📸 Preview
-![Password Strength Tester Screenshot](https://)
+<img width="1920" height="939" alt="Screenshot 2025-10-07 012616" src="https://github.com/user-attachments/assets/ef68c8c6-f0b6-4187-b56f-7fe9875930b6" />
 
 ## 💻 Usage
 1. Clone this repository:
