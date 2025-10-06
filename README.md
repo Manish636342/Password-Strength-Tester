@@ -21,5 +21,5 @@ It provides instant feedback and a colorful visual meter indicating how secure y
 ## 💻 Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/password-strength-tester.git
+   git clone https://github.com/Manish636342/Password-Strength-Tester.git
 
